@@ -1,0 +1,16 @@
+D:\git\Media1\bin\Debug\net5.0\Media1.exe
+D:\git\Media1\bin\Debug\net5.0\Media1.deps.json
+D:\git\Media1\bin\Debug\net5.0\Media1.runtimeconfig.json
+D:\git\Media1\bin\Debug\net5.0\Media1.runtimeconfig.dev.json
+D:\git\Media1\bin\Debug\net5.0\Media1.dll
+D:\git\Media1\bin\Debug\net5.0\ref\Media1.dll
+D:\git\Media1\bin\Debug\net5.0\Media1.pdb
+D:\git\Media1\obj\Debug\net5.0\Media1.csprojAssemblyReference.cache
+D:\git\Media1\obj\Debug\net5.0\Media1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Media1\obj\Debug\net5.0\Media1.AssemblyInfoInputs.cache
+D:\git\Media1\obj\Debug\net5.0\Media1.AssemblyInfo.cs
+D:\git\Media1\obj\Debug\net5.0\Media1.csproj.CoreCompileInputs.cache
+D:\git\Media1\obj\Debug\net5.0\Media1.dll
+D:\git\Media1\obj\Debug\net5.0\ref\Media1.dll
+D:\git\Media1\obj\Debug\net5.0\Media1.pdb
+D:\git\Media1\obj\Debug\net5.0\Media1.genruntimeconfig.cache
